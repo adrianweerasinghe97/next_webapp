@@ -1,0 +1,3 @@
+[submodule "next_webapp"]
+  path = next_webapp
+  url = https://github.com/adrianweerasinghe97/next_webapp.git
